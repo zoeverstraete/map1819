@@ -1,5 +1,15 @@
+h1{
+	font-family: minion pro;
+	font-style: italic;
+	font-size: 30pt;
+	position: fixed;
+	top: 30px;
+	left: 400px;
+	color: blue;
+}
+
 .mijnnaam {
-	color: #000000;
+	color: blue;
 	text-align: left;
 	font-size: 40pt;
 	font-family: minion pro;
@@ -39,17 +49,59 @@
 	right: 10px;
 }
 
+.ik2{
+	width: 79,5px;
+	height: 53px;
+	position: fixed;
+	right: 10px;
+	top: 47px;
+}
 .herbarium{
 	width: 50%;
 	height: 50%;
-	position: absolute;
-	top: 100px;
+	right: 10px;
 }
+
+.her1{
+	width: 50%;
+	height: 50%;
+	position: absolute;
+	top: 200px;
+	right: 10px;
+}
+
+.her2{
+	width: 50%;
+	height: 50%;
+	position: absolute;
+	top: 507px;
+	right: 10px;
+}
+
+.her3{
+	width: 50%;
+	height: 50%;
+	position: absolute;
+	top: 850px;
+	right: 10px;
+}
+
 
 .back{
 	font-family: minion pro;
 	font-style: italic;
 	font-size: 20pt;
 	left: 10pt;
-	position: absolute;
+	top: 30pt;
+	position: fixed;
+}
+
+.uitleg{
+	font-family: minion pro;
+	font-style: italic;
+	font-size: 24pt;
+	left: 10pt;
+	top: 200px;
+	width: 50%;
+	position: fixed;
 }
